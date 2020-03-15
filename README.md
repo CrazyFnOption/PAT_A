@@ -18,7 +18,7 @@
 |[1010 Radix](https://github.com/CrazyFnOption/PAT_A/blob/master/1010.cpp)|二分查找、进制模拟|3|二分查找数的边界问题|用顺序查找总是过不了全部杨丽，这里就只能使用二分查找了|
 |[1011 World Cup Betting](https://github.com/CrazyFnOption/PAT_A/blob/master/1011.cpp)|简单模拟|1|读懂题目意思|无|
 |[1012 The Best Rank](https://github.com/CrazyFnOption/PAT_A/blob/master/1012.cpp)|标准模拟|3|存在并列排名的情况|重复代码请使用函数|
-|[1013 Battle Over Cities](https://github.com/CrazyFnOption/PAT_A/blob/master/1013.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1013_2.cpp)|dfs遍历，并查集|5|题目意思进行转换很重要|这里可以用两种方法分别实现以下|
+|[1013 Battle Over Cities](https://github.com/CrazyFnOption/PAT_A/blob/master/1013.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1013_2.cpp)|dfs遍历，并查集|5|题目意思进行转换很重要|这里可以用两种方法分别实现以下|
 |[1014 Waiting in Line](https://github.com/CrazyFnOption/PAT_A/blob/master/1014.cpp)|困难模拟|5|逻辑问题，以及时间问题|比较时间可以设置一个初值，然后两者同时进行比较，这样省事|
 |[1015 Reversible Primes](https://github.com/CrazyFnOption/PAT_A/blob/master/1015.cpp)|进制转换，简单模拟|2|读懂题目意思，并且1和0不属于质数，卡了这个数据|无|
 |[1016 Phone Bills](https://github.com/CrazyFnOption/PAT_A/blob/master/1016.cpp)|标准模拟|3|代码量有点多，还是时间问题|设定一个初值去比较时间远比逻辑考虑轻松多了|
@@ -28,8 +28,8 @@
 |[1020 Tree Traversals](https://github.com/CrazyFnOption/PAT_A/blob/master/1020.cpp)|二叉树的遍历方式|5|给出方式求另外几种遍历方式|注意递归的顺序|
 |[1021 Deepest Root](https://github.com/CrazyFnOption/PAT_A/blob/master/1021.cpp)|dfs+并查集|5|两种方法，并查集和联通图|题目要求是从每一个点去遍历，而不是按照样例给出的顺序|
 |[1022 Digital Library](https://github.com/CrazyFnOption/PAT_A/blob/master/1022.cpp)|stringstream、map映射|2|stringstream的清空方式|不要加最前面两行代码|
-|[1023 Have Fun with Numbers](https://github.com/CrazyFnOption/PAT_A/blob/master/1023.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1023.java)|java大数裸过|2|熟悉一下java的写法|无|
-|[1024 Palindromic Number](https://github.com/CrazyFnOption/PAT_A/blob/master/1024.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1024_Main.java)|java大数中string的类别|3|string，stringbuild，stringbuffer，三种区别|无|
+|[1023 Have Fun with Numbers](https://github.com/CrazyFnOption/PAT_A/blob/master/1023.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1023.java)|java大数裸过|2|熟悉一下java的写法|无|
+|[1024 Palindromic Number](https://github.com/CrazyFnOption/PAT_A/blob/master/1024.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1024_Main.java)|java大数中string的类别|3|string，stringbuild，stringbuffer，三种区别|无|
 |[1025 PAT Ranking](https://github.com/CrazyFnOption/PAT_A/blob/master/1025.cpp)|结构体排序|1|结构体排序|无|
 |[1026 Table Tennis](https://github.com/CrazyFnOption/PAT_A/blob/master/1026.cpp)|困难模拟|4|round up是四舍五入的意思|这里自己的代码还有一个样例没有过，28/30|
 |[1027 Colors in Mars](https://github.com/CrazyFnOption/PAT_A/blob/master/1027.cpp)|二分进制转换|2|二位进制转换，直接用string存入就行|答案方法很简单|
@@ -39,7 +39,7 @@
 |[1031 Hello World for U](https://github.com/CrazyFnOption/PAT_A/blob/master/1031.cpp)|找规律|1|找规律|无|
 |[1032 Sharing](https://github.com/CrazyFnOption/PAT_A/blob/master/1032.cpp)|一对一映射|3|直接映射读入即可|自己想复杂了，后面发现因为元素只有一个，映射起来就方便|
 |[1033 To Fill or Not to Fill](https://github.com/CrazyFnOption/PAT_A/blob/master/1033.cpp)|标准贪心|6|贪心策略的逻辑容易出错|有的变量一定要用double，很有意思的一道题，可以再做一遍|
-|[1034 Head of a Gang](https://github.com/CrazyFnOption/PAT_A/blob/master/1034.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1034_并查集.cpp)[方法3](https://github.com/CrazyFnOption/PAT_A/blob/master/1034_dfs.cpp)|dfs或并查集|3|我没有用题目要求的知识点，直接用set裸过的|记住 代码样式中的特殊情况|
+|[1034 Head of a Gang](https://github.com/CrazyFnOption/PAT_A/blob/master/1034.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1034_并查集.cpp) [方法3](https://github.com/CrazyFnOption/PAT_A/blob/master/1034_dfs.cpp)|dfs或并查集|3|我没有用题目要求的知识点，直接用set裸过的|记住 代码样式中的特殊情况|
 |[1035 Password](https://github.com/CrazyFnOption/PAT_A/blob/master/1035.cpp)|字符串的简单处理|2|注意pair类型|无|
 |[1036 Boys vs Girls](https://github.com/CrazyFnOption/PAT_A/blob/master/1036.cpp)|结构体排序|1|结构体输入|无|
 |[1037 Magic Coupon](https://github.com/CrazyFnOption/PAT_A/blob/master/1037.cpp)|简单排序|1|简单排序|无|
@@ -48,12 +48,12 @@
 |[1040 Longest Symmetric String](https://github.com/CrazyFnOption/PAT_A/blob/master/1040.cpp)|暴力判断|1|纯暴力判断回文数|本来以为有什么复杂的算法，没想到后面纯暴力|
 |[1041 Be Unique](https://github.com/CrazyFnOption/PAT_A/blob/master/1041.cpp)|简单计数|2|看错题导致错误|第一个独立的数字|
 |[1042 Shuffling Machine](https://github.com/CrazyFnOption/PAT_A/blob/master/1042.cpp)|简单枚举|1|无|无|
-|[1043 Is It a Binary Search Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1043.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1043_模拟树.cpp)|建立二叉平衡树|5|两种办法，模拟和规律找节点|这两种方法都必须掌握|
-|[1044 Shopping in Mars](https://github.com/CrazyFnOption/PAT_A/blob/master/1044.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1044_2.cpp)|二分法|5|当数字大于1e5的时候，就不能开二维数组了|记住 upper_bound函数|
-|[1045 Favorite Color Stripe](https://github.com/CrazyFnOption/PAT_A/blob/master/1045.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1045_LIS.cpp)|LIS or LCS|4|两种办法，弄清楚状态转移方程|两种方法都写一遍|
+|[1043 Is It a Binary Search Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1043.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1043_模拟树.cpp)|建立二叉平衡树|5|两种办法，模拟和规律找节点|这两种方法都必须掌握|
+|[1044 Shopping in Mars](https://github.com/CrazyFnOption/PAT_A/blob/master/1044.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1044_2.cpp)|二分法|5|当数字大于1e5的时候，就不能开二维数组了|记住 upper_bound函数|
+|[1045 Favorite Color Stripe](https://github.com/CrazyFnOption/PAT_A/blob/master/1045.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1045_LIS.cpp)|LIS or LCS|4|两种办法，弄清楚状态转移方程|两种方法都写一遍|
 |[1046 Shortest Distance](https://github.com/CrazyFnOption/PAT_A/blob/master/1046.cpp)|简单环状距离|2|不要过于复杂的算法想这道题|无|
 |[1047 Student List for Course](https://github.com/CrazyFnOption/PAT_A/blob/master/1047.cpp)|离散化|3|类似于前面的离散化|无|
-|[1048 Find Coins](https://github.com/CrazyFnOption/PAT_A/blob/master/1048.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1048_二分.cpp) [方法3](https://github.com/CrazyFnOption/PAT_A/blob/master/1048_hash.cpp)|双指针，二分，哈希标记|3|很神奇的一道题，三种方法|无|
+|[1048 Find Coins](https://github.com/CrazyFnOption/PAT_A/blob/master/1048.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1048_二分.cpp)  [方法3](https://github.com/CrazyFnOption/PAT_A/blob/master/1048_hash.cpp)|双指针，二分，哈希标记|3|很神奇的一道题，三种方法|无|
 |[1049 Counting Ones](https://github.com/CrazyFnOption/PAT_A/blob/master/1049.cpp)|左右分开计算，顶级模拟，找规律|5|觉得如果在写一遍可能写不出来|记住每一位的数量，找到规律|
 |[1050 String Subtraction](https://github.com/CrazyFnOption/PAT_A/blob/master/1050.cpp)|标记模拟|3|自己竟然去模拟删除过程，直接标记就行了|无|
 |[1051 Pop Sequence](https://github.com/CrazyFnOption/PAT_A/blob/master/1051.cpp)|栈的模拟|4|思路是清楚的，需要自己写一遍|栈的容量是有限制的|
@@ -62,26 +62,26 @@
 |[1054 The Dominant Color](https://github.com/CrazyFnOption/PAT_A/blob/master/1054.cpp)|简单模拟|1|简单模拟|无|
 |[1055 The World's Richest](https://github.com/CrazyFnOption/PAT_A/blob/master/1055.cpp)|简单排序|1|结构体简单排序|无|
 |[1056 Mice and Rice](https://github.com/CrazyFnOption/PAT_A/blob/master/1056.cpp)|分组排序|3|读懂题目后面排名的意思|无|
-|[1057 Stack](https://github.com/CrazyFnOption/PAT_A/blob/master/1057.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1057_线段树.cpp) [方法3](https://github.com/CrazyFnOption/PAT_A/blob/master/1057_树状数组.cpp)|树状数组或线段树|5|树状数组的写法|lowbit的写法|
+|[1057 Stack](https://github.com/CrazyFnOption/PAT_A/blob/master/1057.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1057_线段树.cpp)  [方法3](https://github.com/CrazyFnOption/PAT_A/blob/master/1057_树状数组.cpp)|树状数组或线段树|5|树状数组的写法|lowbit的写法|
 |[1058 A+B in Hogwarts](https://github.com/CrazyFnOption/PAT_A/blob/master/1058.cpp)|简单的a+b与进位|1|垃圾题，题目意思表明不清楚|垃圾题|
 |[1059 Prime Factors](https://github.com/CrazyFnOption/PAT_A/blob/master/1059.cpp)|一个一个去判断，不需要去打表|3|打表的话 主要是数字太大了，存不下去。|可以打一部分表，然后通过表来进行判断是否质数|
-|[1060 Are They Equal](https://github.com/CrazyFnOption/PAT_A/blob/master/1060.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1060_me.cpp)|高级模拟|4|等清醒的时候在做一遍|注意各种特殊数据|
+|[1060 Are They Equal](https://github.com/CrazyFnOption/PAT_A/blob/master/1060.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1060_me.cpp)|高级模拟|4|等清醒的时候在做一遍|注意各种特殊数据|
 |[1061 Dating](https://github.com/CrazyFnOption/PAT_A/blob/master/1061.cpp)|英文题？？？|2|神奇的题目考英文的阅读理解|无|
 |[1062 Talent and Virtue](https://github.com/CrazyFnOption/PAT_A/blob/master/1062.cpp)|简单排序|1|简单排序|无|
 |[1063 Set Similarity](https://github.com/CrazyFnOption/PAT_A/blob/master/1063.cpp)|STL的简单运用|2|水题|无|
-|[1064 Complete Binary Search Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1064.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1064_指针模拟.cpp)|完全二叉树|5|完全二叉树的性质，以及中序遍历与二叉树关系|无|
+|[1064 Complete Binary Search Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1064.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1064_指针模拟.cpp)|完全二叉树|5|完全二叉树的性质，以及中序遍历与二叉树关系|无|
 |[1065 A+B and C (64bit)](https://github.com/CrazyFnOption/PAT_A/blob/master/1065.java)|大数裸过|2|java大数|无|
 |[1066 Root of AVL Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1066.cpp)|平衡二叉树(红黑树变换)|5|在于向左右旋转的操作|注意四种变换方式|
-|["1067 Sort with Swap(0](https://github.com/CrazyFnOption/PAT_A/blob/master/1067.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1067_ac.cpp)|i) "|贪心、简易版路径压缩|4|贪心策略，以及时间控制好|一定要记住，这类题要记得存点位置|
-|[1068 Find More Coins](https://github.com/CrazyFnOption/PAT_A/blob/master/1068.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1068_ac.cpp)|01背包，记录序列|5|整体思路出错，完全没有想到是一道背包题，神奇|背包题目，也可以借用状态来进行回溯|
+|["1067 Sort with Swap(0](https://github.com/CrazyFnOption/PAT_A/blob/master/1067.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1067_ac.cpp)|i) "|贪心、简易版路径压缩|4|贪心策略，以及时间控制好|一定要记住，这类题要记得存点位置|
+|[1068 Find More Coins](https://github.com/CrazyFnOption/PAT_A/blob/master/1068.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1068_ac.cpp)|01背包，记录序列|5|整体思路出错，完全没有想到是一道背包题，神奇|背包题目，也可以借用状态来进行回溯|
 |[1069 The Black Hole of Numbers](https://github.com/CrazyFnOption/PAT_A/blob/master/1069.cpp)|字符串处理，简单题|2|这道题有补上0的情况|边边角角的数据总是让你弄不到满分|
-|[1070 Mooncake](https://github.com/CrazyFnOption/PAT_A/blob/master/1070.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1070_ac.cpp)|简单贪心|2|当时被背包魔障了，竟然想到多重背包去了|醉了|
+|[1070 Mooncake](https://github.com/CrazyFnOption/PAT_A/blob/master/1070.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1070_ac.cpp)|简单贪心|2|当时被背包魔障了，竟然想到多重背包去了|醉了|
 |[1071 Speech Patterns](https://github.com/CrazyFnOption/PAT_A/blob/master/1071.cpp)|字符串处理|3|两个函数要记住|要记住读题|
 |[1072 Gas Station](https://github.com/CrazyFnOption/PAT_A/blob/master/1072.cpp)|中规中矩的dijkstra题目|2|一次性过了|多种排列的相结合|
 |[1073 Scientific Notation](https://github.com/CrazyFnOption/PAT_A/blob/master/1073.cpp)|简单模拟|2|调试了有点长时间的bug|无|
 |[1074 Reversing Linked List](https://github.com/CrazyFnOption/PAT_A/blob/master/1074.cpp)|链表排序模拟|3|主要是看错题了，这种类型的题目掌握技巧|还是坐标记录位置|
 |[1075 PAT Judge](https://github.com/CrazyFnOption/PAT_A/blob/master/1075.cpp)|细节模拟，排序|2|有时间再去写，有点小复杂|无|
-|[1076 Forwards on Weibo](https://github.com/CrazyFnOption/PAT_A/blob/master/1076.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1076_bfs.cpp)|dfs或bfs|4|用dfs写的时候由于递归层数有点多，会超时，但是用bfs就不会|注意dfs里面细节，这里自己经常出错|
+|[1076 Forwards on Weibo](https://github.com/CrazyFnOption/PAT_A/blob/master/1076.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1076_bfs.cpp)|dfs或bfs|4|用dfs写的时候由于递归层数有点多，会超时，但是用bfs就不会|注意dfs里面细节，这里自己经常出错|
 |[1077 Kuchiguse](https://github.com/CrazyFnOption/PAT_A/blob/master/1077.cpp)|简单字符串替换|1|简单题|无|
 |[1078 Hashing](https://github.com/CrazyFnOption/PAT_A/blob/master/1078.cpp)|二次探测法 哈希|4|弄懂二次探测和线性探测|无|
 |[1079 Total Sales of Supply Chain](https://github.com/CrazyFnOption/PAT_A/blob/master/1079.cpp)|dfs或bfs|1|我用的是路径压缩，然后存取利息|无|
@@ -111,19 +111,19 @@
 |[1103 Integer Factorization](https://github.com/CrazyFnOption/PAT_A/blob/master/1103.cpp)|dfs加上背包|5|完全没有想到这道题的做法，这道题就是一道好题|无|
 |[1104 Sum of Number Segments](https://github.com/CrazyFnOption/PAT_A/blob/master/1104.cpp)|计算个数，最后相乘得到结果|3|仅仅只是常规做法，那么一定会超时|无|
 |[1105 Spiral Matrix](https://github.com/CrazyFnOption/PAT_A/blob/master/1105.cpp)|输入输出特殊方阵|5|记住这里寻找方阵的长和宽的办法|根据依次平方相除来看|
-|[1106 Lowest Price in Supply Chain](https://github.com/CrazyFnOption/PAT_A/blob/master/1106.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1106_不超时.cpp)|简单dfs|4|这里跟你前面的一道题一样，只不过这里最好再写一遍|无|
+|[1106 Lowest Price in Supply Chain](https://github.com/CrazyFnOption/PAT_A/blob/master/1106.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1106_不超时.cpp)|简单dfs|4|这里跟你前面的一道题一样，只不过这里最好再写一遍|无|
 |[1107 Social Clusters](https://github.com/CrazyFnOption/PAT_A/blob/master/1107.cpp)|简单dfs|3|自己当时一发AC|无|
 |[1108 Finding Average](https://github.com/CrazyFnOption/PAT_A/blob/master/1108.cpp)|暴力|2|无|无|
 |[1109 Group Photo](https://github.com/CrazyFnOption/PAT_A/blob/master/1109.cpp)|模拟方阵|4|最怕这种复杂的逻辑类型|无|
 |[1110 Complete Binary Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1110.cpp)|完全二叉树的判断|2|注意查找根节点|无|
 |[1111 Online Map](https://github.com/CrazyFnOption/PAT_A/blob/master/1111.cpp)|dfs+dijkstra|5|模板题，最好是在写一遍|尽量还可以试试dfs放在dijkstra里面|
-|[1112 Stucked Keyboard](https://github.com/CrazyFnOption/PAT_A/blob/master/1112.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1112_ac.cpp)|简单模拟|4|直接保证是整数倍即可，读懂题目意思|无|
+|[1112 Stucked Keyboard](https://github.com/CrazyFnOption/PAT_A/blob/master/1112.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1112_ac.cpp)|简单模拟|4|直接保证是整数倍即可，读懂题目意思|无|
 |[1113 Integer Set Partition](https://github.com/CrazyFnOption/PAT_A/blob/master/1113.cpp)|特别特别机智的模拟|2|无|无|
 |[1114 Family Property](https://github.com/CrazyFnOption/PAT_A/blob/master/1114.cpp)|模拟加上并查集|5|需要自己写一遍|无|
 |[1115 Counting Nodes in a BST](https://github.com/CrazyFnOption/PAT_A/blob/master/1115.cpp)|二叉树计算节点|3|仔细看一下题目意思，防止定义的地方出错|建树的方法不要出错|
 |[1116 Come on! Let's C](https://github.com/CrazyFnOption/PAT_A/blob/master/1116.cpp)|简单模拟 考验手速的时候到了|1|无|无|
 |[1117 Eddington Number](https://github.com/CrazyFnOption/PAT_A/blob/master/1117.cpp)|题目意思|2|这道题难就难在英语的阅读理解上了|无|
-|[1118 Birds in Forest](https://github.com/CrazyFnOption/PAT_A/blob/master/1118.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1118_并查集.cpp)|并查集 或者 set|2|简单题|无|
+|[1118 Birds in Forest](https://github.com/CrazyFnOption/PAT_A/blob/master/1118.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1118_并查集.cpp)|并查集 或者 set|2|简单题|无|
 |[1119 Pre- and Post-order Traversals](https://github.com/CrazyFnOption/PAT_A/blob/master/1119.cpp)|求解中序遍历是否唯一|5|好题，求解树的好题。|注意清楚中序遍历唯一的条件，并且看看自己尝试换一种写法|
 |[1120 Friend Numbers](https://github.com/CrazyFnOption/PAT_A/blob/master/1120.cpp)|低级模拟|1|水题|无|
 |[1121 Damn Single](https://github.com/CrazyFnOption/PAT_A/blob/master/1121.cpp)|STL的运用|2|stl的运用|无|
@@ -139,7 +139,7 @@
 |[1131 Subway Map](https://github.com/CrazyFnOption/PAT_A/blob/master/1131.cpp)|复杂BFS|5|很多坑，有点复杂，建议自己去写一遍|无|
 |[1132 Cut Integer](https://github.com/CrazyFnOption/PAT_A/blob/master/1132.cpp)|简单模拟|1|无|无|
 |[1133 Splitting A Linked List](https://github.com/CrazyFnOption/PAT_A/blob/master/1133.cpp)|链表模拟|2|以前一模一样的问题|无|
-|[1134 Vertex Cover](https://github.com/CrazyFnOption/PAT_A/blob/master/1134.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1134_2.cpp)|两种做法 set和边标记|2|第二种做法可以作为写其他题目的思路|无|
+|[1134 Vertex Cover](https://github.com/CrazyFnOption/PAT_A/blob/master/1134.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1134_2.cpp)|两种做法 set和边标记|2|第二种做法可以作为写其他题目的思路|无|
 |[1135 Is It A Red-Black Tree](https://github.com/CrazyFnOption/PAT_A/blob/master/1135.cpp)|红黑树的性质检验|5|不要妄想出其他红黑树理想当然的性质|无|
 |[1136 A Delayed Palindrome](https://github.com/CrazyFnOption/PAT_A/blob/master/1136.cpp)|回文数判断|2|判断回文数的函数|无|
 |[1137 Final Grading](https://github.com/CrazyFnOption/PAT_A/blob/master/1137.cpp)|简单模拟|2|STL的简单运用|无|
@@ -148,7 +148,7 @@
 |[1140 Look-and-say Sequence](https://github.com/CrazyFnOption/PAT_A/blob/master/1140.cpp)|简单模拟|1|字符串模拟|无|
 |[1141 PAT Ranking of Institutions](https://github.com/CrazyFnOption/PAT_A/blob/master/1141.cpp)|层次模拟|2|简单模拟|注意有的时候要使用 unordered_map|
 |[1142 Maximal Clique](https://github.com/CrazyFnOption/PAT_A/blob/master/1142.cpp)|图论中的简单模拟|3|无|无|
-|[1143 Lowest Common Ancestor](https://github.com/CrazyFnOption/PAT_A/blob/master/1143.cpp)[方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1143_2.cpp) |平衡二叉树中的LCA|4|利用平衡二叉树的性质|递归不要写错了|
+|[1143 Lowest Common Ancestor](https://github.com/CrazyFnOption/PAT_A/blob/master/1143.cpp) [方法2](https://github.com/CrazyFnOption/PAT_A/blob/master/1143_2.cpp) |平衡二叉树中的LCA|4|利用平衡二叉树的性质|递归不要写错了|
 |[1144 The Missing Number](https://github.com/CrazyFnOption/PAT_A/blob/master/1144.cpp)|简单模拟|1|无|无|
 |[1145 Hashing - Average Search Time](https://github.com/CrazyFnOption/PAT_A/blob/master/1145.cpp)|哈希，求取平均查找时间|5|主要就是二次探测法|无|
 |[1146 Topological Order](https://github.com/CrazyFnOption/PAT_A/blob/master/1146.cpp)|拓扑排序|4|主要就是拓扑排序的知识点|无|
